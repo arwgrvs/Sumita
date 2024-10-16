@@ -8,4 +8,6 @@ int main()
     cin>>a>>b;
     c=a+b;
     cout<<"La suma es: "<<c<<"\n";
+
+    return 0;
 }
